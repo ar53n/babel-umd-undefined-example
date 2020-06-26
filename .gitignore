@@ -1,0 +1,7 @@
+.cache/
+.idea/
+coverage/
+docs/
+node_modules/
+public/
+sanbox/

@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "removeComments": true,
+    "module": "commonjs",
+    "lib": [
+      "dom",
+      "es2017"
+    ]
+  }
+}
